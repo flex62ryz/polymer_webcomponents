@@ -1,0 +1,11 @@
+{
+  "name": "Polymer + Web Components",
+  "version": "0.0.0",
+  "authors": [
+    "Sergey Antonov <flex62ryz@ya.ru>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.5"
+  }
+}
